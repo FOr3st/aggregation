@@ -1,5 +1,5 @@
 # aggregation
-Express aggregation microservice
+Node.js / Express aggregation microservice
 
 ## Description
 Suppose you have an API
